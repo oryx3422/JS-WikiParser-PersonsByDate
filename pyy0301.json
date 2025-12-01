@@ -1,0 +1,146 @@
+{
+  "day": "03-01",
+  "comment": "Личности, родившиеся 01 марта",
+  "persons": [
+    {
+      "name": "Абаза, Джан",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B0%D0%B7%D0%B0,_%D0%94%D0%B6%D0%B0%D0%BD",
+      "bdYear": "1995",
+      "deathYear": null,
+      "occupation": null
+    },
+    {
+      "name": "Абдулжалилов, Фазиль Апасович",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%B6%D0%B0%D0%BB%D0%B8%D0%BB%D0%BE%D0%B2,_%D0%A4%D0%B0%D0%B7%D0%B8%D0%BB%D1%8C_%D0%90%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D1%87",
+      "bdYear": "1913",
+      "deathYear": "1974",
+      "occupation": "писатель"
+    },
+    {
+      "name": "Абдуллин, Байрас Фуатович",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%B8%D0%BD,_%D0%91%D0%B0%D0%B9%D1%80%D0%B0%D1%81_%D0%A4%D1%83%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%87",
+      "bdYear": "1951",
+      "deathYear": "2004",
+      "occupation": null
+    },
+    {
+      "name": "Абдурахманов, Бахтиёр Рафикович",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B4%D1%83%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2,_%D0%91%D0%B0%D1%85%D1%82%D0%B8%D1%91%D1%80_%D0%A0%D0%B0%D1%84%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D1%87",
+      "bdYear": "1983",
+      "deathYear": null,
+      "occupation": null
+    },
+    {
+      "name": "Абдус Саттар",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B4%D1%83%D1%81_%D0%A1%D0%B0%D1%82%D1%82%D0%B0%D1%80",
+      "bdYear": "1906",
+      "deathYear": "1985",
+      "occupation": "юрист"
+    },
+    {
+      "name": "Абдюшев, Хабибулла Бахтигареевич",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B4%D1%8E%D1%88%D0%B5%D0%B2,_%D0%A5%D0%B0%D0%B1%D0%B8%D0%B1%D1%83%D0%BB%D0%BB%D0%B0_%D0%91%D0%B0%D1%85%D1%82%D0%B8%D0%B3%D0%B0%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "bdYear": "1920",
+      "deathYear": "1998",
+      "occupation": null
+    },
+    {
+      "name": "Абенов, Шакир",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B5%D0%BD%D0%BE%D0%B2,_%D0%A8%D0%B0%D0%BA%D0%B8%D1%80",
+      "bdYear": "1900",
+      "deathYear": "1994",
+      "occupation": "писатель, поэт, акын, фольклорист, композитор"
+    },
+    {
+      "name": "Абзгильдин, Абрек Амирович",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B7%D0%B3%D0%B8%D0%BB%D1%8C%D0%B4%D0%B8%D0%BD,_%D0%90%D0%B1%D1%80%D0%B5%D0%BA_%D0%90%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "bdYear": "1937",
+      "deathYear": "2013",
+      "occupation": null
+    },
+    {
+      "name": "Аблаев, Кирилл Маратович",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%BB%D0%B0%D0%B5%D0%B2,_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB_%D0%9C%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%87",
+      "bdYear": "1996",
+      "deathYear": null,
+      "occupation": null
+    },
+    {
+      "name": "Абраам, Пьер",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B0%D0%B0%D0%BC,_%D0%9F%D1%8C%D0%B5%D1%80",
+      "bdYear": "1892",
+      "deathYear": "1974",
+      "occupation": "писатель, журналист, литературовед, переводчик, общественный деятель"
+    },
+    {
+      "name": "Абрахам, Эльмар",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B0%D1%85%D0%B0%D0%BC,_%D0%AD%D0%BB%D1%8C%D0%BC%D0%B0%D1%80",
+      "bdYear": "1999",
+      "deathYear": null,
+      "occupation": null
+    },
+    {
+      "name": "Августин (Петерсон)",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%BD_(%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%BE%D0%BD)",
+      "bdYear": null,
+      "deathYear": "1955",
+      "occupation": null
+    },
+    {
+      "name": "Авдеев, Антон Сергеевич",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B4%D0%B5%D0%B5%D0%B2,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "bdYear": "1985",
+      "deathYear": null,
+      "occupation": null
+    },
+    {
+      "name": "Авраамий (Терешкевич)",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%80%D0%B0%D0%B0%D0%BC%D0%B8%D0%B9_(%D0%A2%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87)",
+      "bdYear": "1900",
+      "deathYear": "1974",
+      "occupation": null
+    },
+    {
+      "name": "Агасарян, Роберт",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%B0%D1%81%D0%B0%D1%80%D1%8F%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "bdYear": "1994",
+      "deathYear": null,
+      "occupation": null
+    },
+    {
+      "name": "Агеев, Василий Сергеевич",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%B5%D0%B5%D0%B2,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "bdYear": "1925",
+      "deathYear": "2002",
+      "occupation": "военнослужащий, офицер"
+    },
+    {
+      "name": "Агеевец, Владимир Ульянович",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%B5%D0%B5%D0%B2%D0%B5%D1%86,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "bdYear": "1927",
+      "deathYear": "2020",
+      "occupation": "учёный"
+    },
+    {
+      "name": "Агэмацу, Нориясу",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D1%8D%D0%BC%D0%B0%D1%86%D1%83,_%D0%9D%D0%BE%D1%80%D0%B8%D1%8F%D1%81%D1%83",
+      "bdYear": "1978",
+      "deathYear": null,
+      "occupation": null
+    },
+    {
+      "name": "Адамовский, Андрей Григорьевич",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+      "bdYear": "1962",
+      "deathYear": null,
+      "occupation": null
+    },
+    {
+      "name": "Адес, Томас",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D1%81,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "bdYear": "1971",
+      "deathYear": null,
+      "occupation": null
+    }
+  ]
+}
